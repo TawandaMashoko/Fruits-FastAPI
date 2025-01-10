@@ -1,0 +1,21 @@
+ # Virtual environment
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs and temp files
+*.log
+*.sqlite3
+
+# IDE configuration files
+.idea/
+.vscode/
+
+# Test artifacts
+*.coverage
+htmlcov/
+
